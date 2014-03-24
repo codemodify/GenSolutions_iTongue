@@ -1,0 +1,105 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = D2AAC07D0554694100DB518D /* GenSolutions.ImageResize */;
+		addToTargets = (
+			D2AAC07D0554694100DB518D /* GenSolutions.ImageResize */,
+		);
+		codeSenseManager = 0EDA4A4912B3B61000B081AF /* Code sense */;
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324772619;
+			PBXWorkspaceStateSaveDate = 324772619;
+		};
+		sourceControlManager = 0EDA4A4812B3B61000B081AF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	0EDA4A4812B3B61000B081AF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0EDA4A4912B3B61000B081AF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0EDA4AC212B3C29600B081AF /* Image.Resize.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1182, 852}}";
+			sepNavSelRange = "{50, 12}";
+			sepNavVisRange = "{0, 149}";
+		};
+	};
+	0EDA4AC312B3C29600B081AF /* Image.Resize.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            c =             (\n                                {\n                    r = \"{1608, 201}\";\n                    s = 0;\n                },\n                                {\n                    r = \"{2384, 1068}\";\n                    s = 0;\n                },\n                                {\n                    r = \"{4593, 745}\";\n                    s = 0;\n                },\n                                {\n                    r = \"{7494, 1664}\";\n                    s = 0;\n                }\n            );\n            r = \"{1381, 7780}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 9169}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1182, 852}}";
+			sepNavSelRange = "{55, 0}";
+			sepNavVisRange = "{0, 1390}";
+			sepNavWindowFrame = "{{150, 349}, {1256, 1001}}";
+		};
+	};
+	AA747D9E0F9514B9006C5449 /* GenSolutions_Image_Resize_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {977, 613}}";
+			sepNavSelRange = "{188, 0}";
+			sepNavVisRange = "{0, 188}";
+		};
+	};
+	D2AAC07D0554694100DB518D /* GenSolutions.ImageResize */ = {
+		activeExec = 0;
+	};
+}

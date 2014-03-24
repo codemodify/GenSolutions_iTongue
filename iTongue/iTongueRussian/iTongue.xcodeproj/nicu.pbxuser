@@ -1,0 +1,512 @@
+// !$*UTF8*$!
+{
+	0E00BD0912AC4245007E2340 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0E00BD0A12AC4245007E2340 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0E0CEAB4130DDFDC0003D95B /* OcrApi.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1150, 1180}}";
+			sepNavSelRange = "{705, 88}";
+			sepNavVisRange = "{0, 912}";
+		};
+	};
+	0E0CEAB5130DDFDC0003D95B /* OcrApi.mm */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{503, 67}\";\n            s = 0;\n        },\n                {\n            r = \"{629, 117}\";\n            s = 0;\n        },\n                {\n            r = \"{820, 597}\";\n            s = 0;\n        },\n                {\n            r = \"{2289, 684}\";\n            s = 0;\n        },\n                {\n            r = \"{3030, 607}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3645}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 1024}}";
+			sepNavSelRange = "{411, 6}";
+			sepNavVisRange = "{0, 1060}";
+		};
+	};
+	0E0CEB42130DDFDC0003D95B /* leptprotos.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1881, 30448}}";
+			sepNavSelRange = "{91459, 7}";
+			sepNavVisRange = "{88710, 5054}";
+		};
+	};
+	0E0CEBE5130DDFDC0003D95B /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1216}}";
+			sepNavSelRange = "{304, 0}";
+			sepNavVisRange = "{0, 1740}";
+		};
+	};
+	0E0CEBE8130DDFDC0003D95B /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1065, 303}}";
+			sepNavSelRange = "{237, 0}";
+			sepNavVisRange = "{0, 238}";
+		};
+	};
+	0E0CEBE9130DDFDC0003D95B /* Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {921, 489}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 352}";
+		};
+	};
+	0E1997F5131B4B210012DF6A /* ScannerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1089, 1305}}";
+			sepNavSelRange = "{683, 136}";
+			sepNavVisRange = "{0, 1230}";
+		};
+	};
+	0E1997F6131B4B210012DF6A /* ScannerViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{607, 291}\";\n            s = 0;\n        },\n                {\n            r = \"{942, 1504}\";\n            s = 0;\n        },\n                {\n            r = \"{2492, 158}\";\n            s = 0;\n        },\n                {\n            r = \"{2692, 138}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{3036, 1426}\";\n                    s = 0;\n                },\n                                {\n                    r = \"{4538, 194}\";\n                    s = 0;\n                },\n                                {\n                    c =                     (\n                                                {\n                            r = \"{5812, 274}\";\n                            s = 0;\n                        },\n                                                {\n                            r = \"{6135, 269}\";\n                            s = 0;\n                        },\n                                                {\n                            r = \"{6455, 269}\";\n                            s = 0;\n                        },\n                                                {\n                            r = \"{6776, 264}\";\n                            s = 0;\n                        }\n                    );\n                    r = \"{4932, 2542}\";\n                    s = 0;\n                }\n            );\n            r = \"{2897, 5842}\";\n            s = 0;\n        },\n                {\n            r = \"{9041, 951}\";\n            s = 0;\n        },\n                {\n            r = \"{10012, 27}\";\n            s = 0;\n        },\n                {\n            r = \"{10135, 136}\";\n            s = 0;\n        },\n                {\n            r = \"{10392, 5067}\";\n            s = 0;\n        },\n                {\n            r = \"{16115, 919}\";\n            s = 0;\n        },\n                {\n            r = \"{17071, 1327}\";\n            s = 0;\n        },\n                {\n            r = \"{18432, 252}\";\n            s = 0;\n        },\n                {\n            r = \"{19000, 647}\";\n            s = 0;\n        },\n                {\n            r = \"{19997, 335}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 20341}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1150, 1232}}";
+			sepNavSelRange = "{1658, 0}";
+			sepNavVisRange = "{113, 2648}";
+		};
+	};
+	0E1997FB131B4B2B0012DF6A /* TravelViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {994, 1262}}";
+			sepNavSelRange = "{0, 1}";
+			sepNavVisRange = "{0, 1257}";
+		};
+	};
+	0E1997FC131B4B2B0012DF6A /* TravelViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{522, 905}\";\n            s = 0;\n        },\n                {\n            r = \"{1505, 298}\";\n            s = 0;\n        },\n                {\n            r = \"{1848, 1894}\";\n            s = 0;\n        },\n                {\n            r = \"{3809, 6372}\";\n            s = 0;\n        },\n                {\n            r = \"{11222, 27}\";\n            s = 0;\n        },\n                {\n            r = \"{11345, 144}\";\n            s = 0;\n        },\n                {\n            r = \"{12146, 152}\";\n            s = 0;\n        },\n                {\n            r = \"{12329, 1298}\";\n            s = 0;\n        },\n                {\n            r = \"{13669, 136}\";\n            s = 0;\n        },\n                {\n            r = \"{14121, 903}\";\n            s = 0;\n        },\n                {\n            r = \"{15374, 195}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 15578}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1250, 1600}}";
+			sepNavSelRange = "{1353, 0}";
+			sepNavVisRange = "{605, 1575}";
+		};
+	};
+	0E237B5C1318B73500E0F130 /* BookViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {994, 1262}}";
+			sepNavSelRange = "{706, 15}";
+			sepNavVisRange = "{0, 1005}";
+		};
+	};
+	0E237B5D1318B73500E0F130 /* BookViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{522, 836}\";\n            s = 0;\n        },\n                {\n            r = \"{1887, 28}\";\n            s = 0;\n        },\n                {\n            r = \"{2011, 140}\";\n            s = 0;\n        },\n                {\n            r = \"{2830, 247}\";\n            s = 0;\n        },\n                {\n            r = \"{3108, 816}\";\n            s = 0;\n        },\n                {\n            r = \"{4419, 1078}\";\n            s = 0;\n        },\n                {\n            r = \"{5847, 194}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 6050}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 1488}}";
+			sepNavSelRange = "{1470, 0}";
+			sepNavVisRange = "{1056, 989}";
+		};
+	};
+	0E237B7D1318B94E00E0F130 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 532}}";
+			sepNavSelRange = "{1, 0}";
+			sepNavVisRange = "{0, 441}";
+		};
+	};
+	0E61E6EE1336BE3D00FF33E8 /* LanguagePickerActionSheet.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {763, 670}}";
+			sepNavSelRange = "{601, 0}";
+			sepNavVisRange = "{0, 1059}";
+		};
+	};
+	0E61E6EF1336BE3D00FF33E8 /* LanguagePickerActionSheet.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{397, 1225}\";\n            s = 0;\n        },\n                {\n            r = \"{1642, 121}\";\n            s = 0;\n        },\n                {\n            r = \"{3728, 76}\";\n            s = 0;\n        },\n                {\n            r = \"{3850, 769}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 4627}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1089, 1328}}";
+			sepNavSelRange = "{440, 16}";
+			sepNavVisRange = "{0, 2440}";
+		};
+	};
+	0E61E6F41336BE3D00FF33E8 /* LanguagePickerViewDataSource.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {994, 1262}}";
+			sepNavSelRange = "{117, 0}";
+			sepNavVisRange = "{0, 505}";
+		};
+	};
+	0E61E6F51336BE3D00FF33E8 /* LanguagePickerViewDataSource.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{316, 286}\";\n            s = 0;\n        },\n                {\n            r = \"{961, 195}\";\n            s = 0;\n        },\n                {\n            r = \"{1192, 32}\";\n            s = 0;\n        },\n                {\n            r = \"{1369, 45}\";\n            s = 0;\n        },\n                {\n            r = \"{1510, 46}\";\n            s = 0;\n        },\n                {\n            r = \"{1656, 29}\";\n            s = 0;\n        },\n                {\n            r = \"{1760, 13}\";\n            s = 0;\n        },\n                {\n            r = \"{2094, 547}\";\n            s = 0;\n        },\n                {\n            r = \"{2751, 31}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 2790}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1150, 1180}}";
+			sepNavSelRange = "{269, 0}";
+			sepNavVisRange = "{0, 1575}";
+		};
+	};
+	0E7650EB1348253E00D72424 /* CameraViewController.mm:230 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0E7685C0130DFF4B00A0642E /* CameraViewController.mm */;
+		functionName = "-setSourceLanguages";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 230;
+		location = iTongue;
+		modificationTime = 323726553.6479501;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0E76850A130DEBFA00A0642E /* CameraApi.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1004, 892}}";
+			sepNavSelRange = "{821, 20}";
+			sepNavVisRange = "{0, 1255}";
+		};
+	};
+	0E76850B130DEBFA00A0642E /* CameraApi.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1386, 3312}}";
+			sepNavSelRange = "{6462, 0}";
+			sepNavVisRange = "{5031, 1825}";
+		};
+	};
+	0E7685AC130DF63900A0642E /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 532}}";
+			sepNavSelRange = "{406, 0}";
+			sepNavVisRange = "{0, 565}";
+		};
+	};
+	0E7685AD130DF63900A0642E /* MainViewController.mm */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{951, 1053}\";\n            s = 0;\n        },\n                {\n            r = \"{2369, 53}\";\n            s = 0;\n        },\n                {\n            r = \"{2502, 57}\";\n            s = 0;\n        },\n                {\n            r = \"{2994, 39}\";\n            s = 0;\n        },\n                {\n            r = \"{3226, 138}\";\n            s = 0;\n        },\n                {\n            r = \"{3731, 92}\";\n            s = 0;\n        },\n                {\n            r = \"{3859, 323}\";\n            s = 0;\n        },\n                {\n            r = \"{5878, 330}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 6216}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 2256}}";
+			sepNavSelRange = "{2715, 6}";
+			sepNavVisRange = "{955, 950}";
+		};
+	};
+	0E7685BF130DFF4B00A0642E /* CameraViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 1760}}";
+			sepNavSelRange = "{1971, 6}";
+			sepNavVisRange = "{1345, 1390}";
+		};
+	};
+	0E7685C0130DFF4B00A0642E /* CameraViewController.mm */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{887, 219}\";\n            s = 0;\n        },\n                {\n            r = \"{1197, 911}\";\n            s = 0;\n        },\n                {\n            r = \"{3862, 170}\";\n            s = 0;\n        },\n                {\n            r = \"{4102, 203}\";\n            s = 0;\n        },\n                {\n            r = \"{4385, 1795}\";\n            s = 0;\n        },\n                {\n            r = \"{7032, 490}\";\n            s = 0;\n        },\n                {\n            r = \"{7547, 451}\";\n            s = 0;\n        },\n                {\n            r = \"{10538, 73}\";\n            s = 0;\n        },\n                {\n            r = \"{10656, 71}\";\n            s = 0;\n        },\n                {\n            r = \"{10747, 140}\";\n            s = 0;\n        },\n                {\n            r = \"{10923, 155}\";\n            s = 0;\n        },\n                {\n            r = \"{11387, 151}\";\n            s = 0;\n        },\n                {\n            r = \"{11573, 1}\";\n            s = 0;\n        },\n                {\n            r = \"{11906, 665}\";\n            s = 0;\n        },\n                {\n            r = \"{12623, 664}\";\n            s = 0;\n        },\n                {\n            r = \"{13540, 704}\";\n            s = 0;\n        },\n                {\n            r = \"{14325, 57}\";\n            s = 0;\n        },\n                {\n            r = \"{14698, 411}\";\n            s = 0;\n        },\n                {\n            r = \"{15652, 1}\";\n            s = 0;\n        },\n                {\n            r = \"{15744, 1}\";\n            s = 0;\n        },\n                {\n            r = \"{15821, 331}\";\n            s = 0;\n        },\n                {\n            r = \"{16222, 3089}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 19321}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1386, 3616}}";
+			sepNavSelRange = "{163, 0}";
+			sepNavVisRange = "{0, 1600}";
+		};
+	};
+	0E768B0413115FBB00A0642E /* GoogleTranslate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {933, 1346}}";
+			sepNavSelRange = "{755, 87}";
+			sepNavVisRange = "{0, 849}";
+		};
+	};
+	0E768B0513115FBB00A0642E /* GoogleTranslate.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{527, 82}\";\n            s = 0;\n        },\n                {\n            r = \"{652, 860}\";\n            s = 0;\n        },\n                {\n            r = \"{1554, 120}\";\n            s = 0;\n        },\n                {\n            r = \"{1772, 795}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 4121}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1250, 1360}}";
+			sepNavSelRange = "{1522, 0}";
+			sepNavVisRange = "{843, 1425}";
+		};
+	};
+	0E768B151311602F00A0642E /* SBJsonParser.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1065, 7568}}";
+			sepNavSelRange = "{13522, 13}";
+			sepNavVisRange = "{12392, 1591}";
+		};
+	};
+	0E768B321311656D00A0642E /* MREntitiesConverter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {977, 863}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 234}";
+		};
+	};
+	0E768B331311656D00A0642E /* MREntitiesConverter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {977, 863}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 889}";
+		};
+	};
+	0E966A81134BAAE700F8A0F1 /* zh_CN */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1253, 1091}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRange = "{0, 266}";
+		};
+	};
+	0EB64786130DD88A0046D71C /* iTongue */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iTongue;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$lr = 1;
+			$pc = 1;
+			$r0 = 1;
+			$r1 = 1;
+			$r10 = 1;
+			$r11 = 1;
+			$r12 = 1;
+			$r2 = 1;
+			$r3 = 1;
+			$r4 = 1;
+			$r5 = 1;
+			$r6 = 1;
+			$r7 = 1;
+			$r8 = 1;
+			$r9 = 1;
+			$sp = 1;
+		};
+	};
+	0EC09E93133FCD3D00DBD766 /* fr */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1107, 113}}";
+			sepNavSelRange = "{477, 0}";
+			sepNavVisRange = "{0, 479}";
+		};
+	};
+	0EC09E94133FCD5700DBD766 /* it */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1107, 113}}";
+			sepNavSelRange = "{425, 0}";
+			sepNavVisRange = "{0, 427}";
+		};
+	};
+	0EC09E97133FCDB300DBD766 /* es */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1107, 113}}";
+			sepNavSelRange = "{451, 0}";
+			sepNavVisRange = "{0, 453}";
+		};
+	};
+	0EC09FF31344FBDB00DBD766 /* InfoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 912}}";
+			sepNavSelRange = "{373, 0}";
+			sepNavVisRange = "{0, 497}";
+		};
+	};
+	0EC09FF41344FBDB00DBD766 /* InfoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1386, 1216}}";
+			sepNavSelRange = "{919, 0}";
+			sepNavVisRange = "{671, 1202}";
+		};
+	};
+	0EFCD5A41323B8BC00D4A35B /* TextViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1253, 1472}}";
+			sepNavSelRange = "{1709, 10}";
+			sepNavVisRange = "{650, 1721}";
+		};
+	};
+	0EFCD5A51323B8BC00D4A35B /* TextViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{960, 8179}\";\n            s = 0;\n        },\n                {\n            r = \"{9178, 1518}\";\n            s = 0;\n        },\n                {\n            r = \"{10763, 140}\";\n            s = 0;\n        },\n                {\n            r = \"{10934, 818}\";\n            s = 0;\n        },\n                {\n            r = \"{11777, 729}\";\n            s = 0;\n        },\n                {\n            r = \"{12531, 562}\";\n            s = 0;\n        },\n                {\n            r = \"{13133, 3984}\";\n            s = 0;\n        },\n                {\n            r = \"{18236, 38}\";\n            s = 0;\n        },\n                {\n            r = \"{18577, 281}\";\n            s = 0;\n        },\n                {\n            r = \"{18899, 212}\";\n            s = 0;\n        },\n                {\n            r = \"{19148, 39}\";\n            s = 0;\n        },\n                {\n            r = \"{19208, 76}\";\n            s = 0;\n        },\n                {\n            r = \"{19381, 138}\";\n            s = 0;\n        },\n                {\n            r = \"{19874, 142}\";\n            s = 0;\n        },\n                {\n            r = \"{20107, 574}\";\n            s = 0;\n        },\n                {\n            r = \"{20771, 170}\";\n            s = 0;\n        },\n                {\n            r = \"{21056, 152}\";\n            s = 0;\n        },\n                {\n            r = \"{21512, 98}\";\n            s = 0;\n        },\n                {\n            r = \"{21650, 496}\";\n            s = 0;\n        },\n                {\n            r = \"{22186, 503}\";\n            s = 0;\n        },\n                {\n            r = \"{22942, 436}\";\n            s = 0;\n        },\n                {\n            r = \"{23428, 103}\";\n            s = 0;\n        },\n                {\n            r = \"{23568, 240}\";\n            s = 0;\n        },\n                {\n            r = \"{23844, 1350}\";\n            s = 0;\n        },\n                {\n            r = \"{25376, 141}\";\n            s = 0;\n        },\n                {\n            r = \"{25552, 939}\";\n            s = 0;\n        },\n                {\n            r = \"{26644, 513}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 27165}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1253, 1952}}";
+			sepNavSelRange = "{1292, 0}";
+			sepNavVisRange = "{0, 2620}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iTongue */ = {
+		activeExec = 0;
+		executables = (
+			0EB64786130DD88A0046D71C /* iTongue */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 0EB64786130DD88A0046D71C /* iTongue */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iTongue */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iTongue */,
+		);
+		breakpoints = (
+			0E7650EB1348253E00D72424 /* CameraViewController.mm:230 */,
+		);
+		codeSenseManager = 0E00BD0A12AC4245007E2340 /* Code sense */;
+		executables = (
+			0EB64786130DD88A0046D71C /* iTongue */,
+		);
+		expressions = (
+			y,
+			xMax,
+			yMax,
+			yInc,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					10,
+					20,
+					10,
+					10,
+					10,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					371,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					205,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Built_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					575,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1229,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330228856;
+			PBXWorkspaceStateSaveDate = 330228856;
+		};
+		sourceControlManager = 0E00BD0912AC4245007E2340 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

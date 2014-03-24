@@ -1,0 +1,587 @@
+// !$*UTF8*$!
+{
+	0E0CB95D12DE305400EC6AE0 /* FacebookApiHelper.m:126 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0E4D843912D12D7F00C28C3B /* FacebookApiHelper.m */;
+		functionName = "-request:didLoad:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 126;
+		modificationTime = 319415523.530642;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0E0CB97B12DE30F400EC6AE0 /* FacebookApiHelper.m:147 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0E4D843912D12D7F00C28C3B /* FacebookApiHelper.m */;
+		functionName = "-request:didLoad:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 147;
+		modificationTime = 319415523.530612;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0E0CB9B912DE33FB00EC6AE0 /* FacebookApi.m:370 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0E9C7AFA12D10D9200384C8C /* FacebookApi.m */;
+		functionName = "+getUserIdListWithCommentsWhoLikedThePhotoKO";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 370;
+		modificationTime = 319415523.530765;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0E1BA59612DD39840016DB3F /* FacebookApi.m:71 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0E9C7AFA12D10D9200384C8C /* FacebookApi.m */;
+		functionName = "+stepRunner";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 71;
+		modificationTime = 319415523.530746;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	0E29EB6812C2A99600D6601F /* giftpicker-icon.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{103, 180}, {1089, 1212}}";
+		};
+	};
+	0E4D843812D12D7F00C28C3B /* FacebookApiHelper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {685, 800}}";
+			sepNavSelRange = "{437, 0}";
+			sepNavVisRange = "{158, 1411}";
+			sepNavWindowFrame = "{{622, 163}, {762, 786}}";
+		};
+	};
+	0E4D843912D12D7F00C28C3B /* FacebookApiHelper.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{325, 458}\";\n            s = 0;\n        },\n                {\n            r = \"{802, 220}\";\n            s = 0;\n        },\n                {\n            r = \"{1212, 43}\";\n            s = 0;\n        },\n                {\n            r = \"{1310, 43}\";\n            s = 0;\n        },\n                {\n            r = \"{1408, 43}\";\n            s = 0;\n        },\n                {\n            r = \"{1506, 43}\";\n            s = 0;\n        },\n                {\n            r = \"{1604, 43}\";\n            s = 0;\n        },\n                {\n            r = \"{1702, 43}\";\n            s = 0;\n        },\n                {\n            r = \"{2030, 49}\";\n            s = 0;\n        },\n                {\n            r = \"{2134, 49}\";\n            s = 0;\n        },\n                {\n            r = \"{2337, 50}\";\n            s = 0;\n        },\n                {\n            r = \"{3100, 1069}\";\n            s = 0;\n        },\n                {\n            r = \"{4233, 150}\";\n            s = 0;\n        },\n                {\n            r = \"{4443, 138}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{6606, 5}\";\n                    s = 0;\n                },\n                                {\n                    r = \"{6658, 5}\";\n                    s = 0;\n                },\n                                {\n                    r = \"{6716, 131}\";\n                    s = 0;\n                },\n                                {\n                    r = \"{6911, 142}\";\n                    s = 0;\n                },\n                                {\n                    r = \"{7113, 146}\";\n                    s = 0;\n                },\n                                {\n                    r = \"{7577, 164}\";\n                    s = 0;\n                }\n            );\n            r = \"{6488, 1255}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 7751}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1132, 1920}}";
+			sepNavSelRange = "{1544, 417}";
+			sepNavVisRange = "{1049, 1339}";
+			sepNavWindowFrame = "{{1242, 21}, {1302, 1318}}";
+		};
+	};
+	0E4D864612D3E08D00C28C3B /* likes-count.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{80, 201}, {1089, 1212}}";
+		};
+	};
+	0E59AB1B12BC63B900F5C764 /* UploadToFacebook.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1182, 1225}}";
+			sepNavSelRange = "{357, 0}";
+			sepNavVisRange = "{79, 1160}";
+			sepNavWindowFrame = "{{130, 303}, {1252, 979}}";
+		};
+	};
+	0E59AB1C12BC63B900F5C764 /* UploadToFacebook.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{924, 293}\";\n            s = 0;\n        },\n                {\n            r = \"{1253, 165}\";\n            s = 0;\n        },\n                {\n            r = \"{1444, 144}\";\n            s = 0;\n        },\n                {\n            r = \"{1608, 217}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 4237}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1952}}";
+			sepNavSelRange = "{2107, 392}";
+			sepNavVisRange = "{1567, 1707}";
+			sepNavWindowFrame = "{{506, 481}, {1198, 777}}";
+		};
+	};
+	0E768DBE13A93FCB008AF228 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GenSolutions_GiftPickerAppDelegate.m */;
+		name = "GenSolutions_GiftPickerAppDelegate.m: 45";
+		rLen = 0;
+		rLoc = 1678;
+		rType = 0;
+		vrLen = 1257;
+		vrLoc = 1178;
+	};
+	0E768DBF13A93FCB008AF228 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GenSolutions_GiftPickerAppDelegate.h */;
+		name = "GenSolutions_GiftPickerAppDelegate.h: 13";
+		rLen = 18;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 0;
+	};
+	0E768DC013A93FCB008AF228 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 9";
+		rLen = 49;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 3401;
+		vrLoc = 0;
+	};
+	0E7690AB13AC0C14008AF228 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 63";
+		rLen = 35;
+		rLoc = 1589;
+		rType = 0;
+		vrLen = 1187;
+		vrLoc = 562;
+	};
+	0E7690AC13AC0C14008AF228 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 619";
+		rLen = 123;
+		rLoc = 20621;
+		rType = 0;
+		vrLen = 2449;
+		vrLoc = 19178;
+	};
+	0E9C7AF912D10D9200384C8C /* FacebookApi.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1038, 1280}}";
+			sepNavSelRange = "{1504, 0}";
+			sepNavVisRange = "{0, 2482}";
+			sepNavWindowFrame = "{{69, 161}, {858, 1257}}";
+		};
+	};
+	0E9C7AFA12D10D9200384C8C /* FacebookApi.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 5840}}";
+			sepNavSelRange = "{6789, 0}";
+			sepNavVisRange = "{6421, 1308}";
+			sepNavWindowFrame = "{{992, 0}, {1257, 1418}}";
+		};
+	};
+	0E9C7AFC12D10D9200384C8C /* Facebook.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1177, 2750}}";
+			sepNavSelRange = "{2549, 16}";
+			sepNavVisRange = "{830, 1602}";
+			sepNavWindowFrame = "{{219, 58}, {1236, 1229}}";
+		};
+	};
+	0E9C7AFD12D10D9200384C8C /* Facebook.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {958, 9360}}";
+			sepNavSelRange = "{9004, 6}";
+			sepNavVisRange = "{8080, 1686}";
+		};
+	};
+	0E9C7B0012D10D9200384C8C /* FBDialog.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {958, 4350}}";
+			sepNavSelRange = "{892, 31}";
+			sepNavVisRange = "{588, 707}";
+			sepNavWindowFrame = "{{1894, -336}, {1236, 1229}}";
+		};
+	};
+	0E9C7B0512D10D9200384C8C /* FBRequest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1131, 9275}}";
+			sepNavSelRange = "{8694, 0}";
+			sepNavVisRange = "{9785, 1173}";
+		};
+	};
+	0E9C7B0812D10D9200384C8C /* NSObject+SBJSON.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 1104}}";
+			sepNavSelRange = "{1607, 0}";
+			sepNavVisRange = "{745, 1816}";
+		};
+	};
+	0E9C7B2612D10DAE00384C8C /* AFOpenFlowView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1015, 1280}}";
+			sepNavSelRange = "{1316, 14}";
+			sepNavVisRange = "{0, 2270}";
+		};
+	};
+	0E9C7B2712D10DAE00384C8C /* AFOpenFlowView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1015, 7120}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2669}";
+		};
+	};
+	0EDA4DB212B6C85700B081AF /* GenSolutions.GiftPicker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = YES;
+				name = MallocStackLoggingNoCompact;
+				value = YES;
+			},
+			{
+				active = YES;
+				name = MallocStackLogging;
+				value = YES;
+			},
+			{
+				active = YES;
+				name = NSZombieEnabled;
+				value = YES;
+			},
+			{
+				active = YES;
+				name = NSDebugEnabled;
+				value = YES;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GenSolutions.GiftPicker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$lr = 1;
+			$pc = 1;
+			$r0 = 1;
+			$r1 = 1;
+			$r10 = 1;
+			$r11 = 1;
+			$r12 = 1;
+			$r2 = 1;
+			$r3 = 1;
+			$r4 = 1;
+			$r5 = 1;
+			$r6 = 1;
+			$r7 = 1;
+			$r8 = 1;
+			$r9 = 1;
+			$sp = 1;
+		};
+	};
+	0EDA4DC612B6C86700B081AF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0EDA4DC712B6C86700B081AF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0EE9112A12DBE80300BE01F8 /* PopupTopLeft.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 628}}";
+			sepNavSelRange = "{50, 0}";
+			sepNavVisRange = "{0, 71}";
+			sepNavWindowFrame = "{{77, 876}, {400, 537}}";
+		};
+	};
+	0EE9112B12DBE80300BE01F8 /* PopupTopLeft.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 672}}";
+			sepNavSelRange = "{874, 0}";
+			sepNavVisRange = "{1, 904}";
+		};
+	};
+	1D3623240D0F684500981E51 /* GenSolutions_GiftPickerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1038, 502}}";
+			sepNavSelRange = "{303, 18}";
+			sepNavVisRange = "{0, 349}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GenSolutions_GiftPickerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1312}}";
+			sepNavSelRange = "{1678, 0}";
+			sepNavVisRange = "{1178, 1257}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GenSolutions.GiftPicker */ = {
+		activeExec = 0;
+		executables = (
+			0EDA4DB212B6C85700B081AF /* GenSolutions.GiftPicker */,
+		);
+	};
+	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1038, 1120}}";
+			sepNavSelRange = "{1589, 35}";
+			sepNavVisRange = "{562, 1187}";
+			sepNavWindowFrame = "{{106, 615}, {1198, 777}}";
+		};
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{428, 75}\";\n            s = 0;\n        },\n                {\n            r = \"{526, 369}\";\n            s = 0;\n        },\n                {\n            r = \"{919, 1545}\";\n            s = 0;\n        },\n                {\n            r = \"{2531, 218}\";\n            s = 0;\n        },\n                {\n            r = \"{2785, 260}\";\n            s = 0;\n        },\n                {\n            r = \"{4189, 71}\";\n            s = 0;\n        },\n                {\n            r = \"{4290, 96}\";\n            s = 0;\n        },\n                {\n            r = \"{4474, 569}\";\n            s = 0;\n        },\n                {\n            r = \"{5261, 329}\";\n            s = 0;\n        },\n                {\n            r = \"{5806, 47}\";\n            s = 0;\n        },\n                {\n            r = \"{5913, 189}\";\n            s = 0;\n        },\n                {\n            r = \"{6177, 624}\";\n            s = 0;\n        },\n                {\n            r = \"{7023, 477}\";\n            s = 0;\n        },\n                {\n            r = \"{7538, 461}\";\n            s = 0;\n        },\n                {\n            r = \"{8389, 325}\";\n            s = 0;\n        },\n                {\n            r = \"{10700, 218}\";\n            s = 0;\n        },\n                {\n            r = \"{12249, 15}\";\n            s = 0;\n        },\n                {\n            r = \"{12357, 98}\";\n            s = 0;\n        },\n                {\n            r = \"{12562, 1519}\";\n            s = 0;\n        },\n                {\n            r = \"{14185, 629}\";\n            s = 0;\n        },\n                {\n            r = \"{14982, 28}\";\n            s = 0;\n        },\n                {\n            r = \"{15090, 1207}\";\n            s = 0;\n        },\n                {\n            r = \"{17557, 1}\";\n            s = 0;\n        },\n                {\n            r = \"{20781, 156}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 21635}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1531, 5984}}";
+			sepNavSelRange = "{11274, 123}";
+			sepNavVisRange = "{9831, 2294}";
+			sepNavWindowFrame = "{{855, 146}, {1089, 1212}}";
+		};
+	};
+	289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1182, 921}}";
+			sepNavSelRange = "{635, 31}";
+			sepNavVisRange = "{0, 711}";
+			sepNavWindowFrame = "{{129, 594}, {1198, 777}}";
+		};
+	};
+	289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {975, 1536}}";
+			sepNavSelRange = "{1112, 0}";
+			sepNavVisRange = "{1217, 1056}";
+			sepNavWindowFrame = "{{540, 439}, {1198, 777}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0EDA4DB212B6C85700B081AF /* GenSolutions.GiftPicker */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GenSolutions.GiftPicker */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GenSolutions.GiftPicker */,
+		);
+		breakpoints = (
+			0E1BA59612DD39840016DB3F /* FacebookApi.m:71 */,
+			0E0CB95D12DE305400EC6AE0 /* FacebookApiHelper.m:126 */,
+			0E0CB97B12DE30F400EC6AE0 /* FacebookApiHelper.m:147 */,
+			0E0CB9B912DE33FB00EC6AE0 /* FacebookApi.m:370 */,
+		);
+		codeSenseManager = 0EDA4DC712B6C86700B081AF /* Code sense */;
+		executables = (
+			0EDA4DB212B6C85700B081AF /* GenSolutions.GiftPicker */,
+		);
+		expressions = (
+			self.accessToken,
+			self,
+			cell.imageView.frame.size.height,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					562,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					640,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					766,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					692,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					728,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					712,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330042359;
+			PBXWorkspaceStateSaveDate = 330042359;
+		};
+		perUserProjectItems = {
+			0E768DBE13A93FCB008AF228 /* PBXTextBookmark */ = 0E768DBE13A93FCB008AF228 /* PBXTextBookmark */;
+			0E768DBF13A93FCB008AF228 /* PBXTextBookmark */ = 0E768DBF13A93FCB008AF228 /* PBXTextBookmark */;
+			0E768DC013A93FCB008AF228 /* PBXTextBookmark */ = 0E768DC013A93FCB008AF228 /* PBXTextBookmark */;
+			0E7690AB13AC0C14008AF228 /* PBXTextBookmark */ = 0E7690AB13AC0C14008AF228 /* PBXTextBookmark */;
+			0E7690AC13AC0C14008AF228 /* PBXTextBookmark */ = 0E7690AC13AC0C14008AF228 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0EDA4DC612B6C86700B081AF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {958, 648}}";
+			sepNavSelRange = "{18, 23}";
+			sepNavVisRange = "{0, 370}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* GenSolutions_GiftPicker_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {958, 648}}";
+			sepNavSelRange = "{49, 23}";
+			sepNavVisRange = "{0, 352}";
+		};
+	};
+	8D1107310486CEB800E47090 /* GenSolutions_GiftPicker-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{793, 434}, {998, 616}}";
+		};
+	};
+}

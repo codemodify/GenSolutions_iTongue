@@ -1,0 +1,150 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = D2AAC07D0554694100DB518D /* GenSolutions.ImageSkew */;
+		addToTargets = (
+			D2AAC07D0554694100DB518D /* GenSolutions.ImageSkew */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 0EDA43C412B175EB00B081AF /* Code sense */;
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					697,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313885216;
+			PBXWorkspaceStateSaveDate = 313885216;
+		};
+		perUserProjectItems = {
+			0EDA4A9B12B3BBF600B081AF /* PBXTextBookmark */ = 0EDA4A9B12B3BBF600B081AF /* PBXTextBookmark */;
+			0EDA4BB912B57D7300B081AF /* PBXTextBookmark */ = 0EDA4BB912B57D7300B081AF /* PBXTextBookmark */;
+			0EDA4BBB12B57D7300B081AF /* PBXTextBookmark */ = 0EDA4BBB12B57D7300B081AF /* PBXTextBookmark */;
+			0EDA4BD712B5823D00B081AF /* PBXTextBookmark */ = 0EDA4BD712B5823D00B081AF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0EDA43C312B175EB00B081AF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	0EDA43C312B175EB00B081AF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0EDA43C412B175EB00B081AF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0EDA4A9B12B3BBF600B081AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AA747D9E0F9514B9006C5449 /* GenSolutions_Image_Skew_Prefix.pch */;
+		name = "GenSolutions_ImageSkew_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 188;
+		vrLoc = 0;
+	};
+	0EDA4AA912B3C25D00B081AF /* Image.Skew.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {903, 918}}";
+			sepNavSelRange = "{60, 26}";
+			sepNavVisRange = "{0, 797}";
+		};
+	};
+	0EDA4AAA12B3C25D00B081AF /* Image.Skew.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1195, 3445}}";
+			sepNavSelRange = "{775, 0}";
+			sepNavVisRange = "{0, 1483}";
+		};
+	};
+	0EDA4BB912B57D7300B081AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0EDA4AA912B3C25D00B081AF /* Image.Skew.h */;
+		name = "Image.Skew.h: 6";
+		rLen = 26;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 797;
+		vrLoc = 0;
+	};
+	0EDA4BBB12B57D7300B081AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0EDA4AAA12B3C25D00B081AF /* Image.Skew.m */;
+		name = "Image.Skew.m: 22";
+		rLen = 0;
+		rLoc = 775;
+		rType = 0;
+		vrLen = 3268;
+		vrLoc = 0;
+	};
+	0EDA4BD712B5823D00B081AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0EDA4AAA12B3C25D00B081AF /* Image.Skew.m */;
+		name = "Image.Skew.m: 22";
+		rLen = 0;
+		rLoc = 775;
+		rType = 0;
+		vrLen = 1483;
+		vrLoc = 0;
+	};
+	AA747D9E0F9514B9006C5449 /* GenSolutions_Image_Skew_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 902}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 188}";
+		};
+	};
+	D2AAC07D0554694100DB518D /* GenSolutions.ImageSkew */ = {
+		activeExec = 0;
+	};
+}
